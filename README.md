@@ -1,2 +1,17 @@
-# library-management-system
-A console-based Library Management System developed in C++ using Object-Oriented Programming and File Handling to manage books, issue records, and returns.
+# Library Management System
+
+A console-based Library Management System developed in C++.
+
+## Features
+- Add Books
+- View Books
+- Search Books
+- Issue Books
+- Return Books
+- Delete Books
+- File Handling for Data Storage
+
+## Technologies Used
+- C++
+- Object-Oriented Programming
+- File Handling
